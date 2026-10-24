@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1800 1100" fill="none">
+  <defs>
+    <linearGradient id="sky" x1="900" y1="0" x2="900" y2="590" gradientUnits="userSpaceOnUse"><stop stop-color="#B9C99C"/><stop offset="1" stop-color="#D9D6A3"/></linearGradient>
+    <linearGradient id="field" x1="900" y1="450" x2="900" y2="1100" gradientUnits="userSpaceOnUse"><stop stop-color="#88A56F"/><stop offset="1" stop-color="#526D43"/></linearGradient>
+    <linearGradient id="canal" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#83B5AE"/><stop offset="1" stop-color="#527F77"/></linearGradient>
+    <filter id="blur"><feGaussianBlur stdDeviation="20"/></filter>
+  </defs>
+  <path fill="url(#sky)" d="M0 0h1800v575H0z"/>
+  <circle cx="1370" cy="220" r="92" fill="#F2D89B" opacity=".6" filter="url(#blur)"/>
+  <path fill="#8C9E72" d="M0 435c207-84 392-84 602 0s396 81 604-3 398-81 594-4v184H0z" opacity=".55"/>
+  <path fill="#789363" d="M0 494c236-74 445-73 652 2s387 70 586-4 370-67 562-1v171H0z" opacity=".75"/>
+  <path fill="url(#field)" d="M0 590h1800v510H0z"/>
+  <path d="M-30 794c320-104 603-136 918-80 310 55 596 54 959-89" stroke="#D5C47E" stroke-width="92" opacity=".68"/>
+  <path d="M-46 795c322-105 604-137 920-82 309 55 596 54 960-88" stroke="url(#canal)" stroke-width="35"/>
+  <path d="M98 1100c267-229 465-356 709-397 262-43 468 41 835 397" stroke="#BCC57A" stroke-width="7" opacity=".62"/>
+  <path d="M320 1100c212-185 370-281 545-308 208-33 393 39 609 308" stroke="#D5C781" stroke-width="6" opacity=".5"/>
+  <path d="M585 1100c113-102 216-165 311-178 125-17 227 31 378 178" stroke="#D5C781" stroke-width="5" opacity=".42"/>
+  <g fill="#486C47" opacity=".85">
+    <path d="M255 580h28v124h-28zM232 601c3-36 74-36 77 0z"/><path d="M339 565h24v132h-24zM319 586c3-32 62-32 65 0z"/><path d="M1474 552h31v131h-31zM1448 575c3-39 81-39 84 0z"/><path d="M1550 566h23v120h-23zM1530 585c3-31 62-31 65 0z"/><path d="M1307 565h25v125h-25zM1287 587c3-32 63-32 66 0z"/>
+  </g>
+  <g fill="#738957" opacity=".58">
+    <path d="m50 675 9-55 9 55zM80 677l9-66 9 66zM112 678l10-59 9 59zM1680 677l9-61 10 61zM1714 679l9-72 10 72zM1750 677l9-58 10 58z"/>
+  </g>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" fill="none">
+  <rect width="1200" height="800" fill="#E6EBDD"/>
+  <path d="M0 118 1200 0M0 345 1200 202M0 596 1200 435M110 800 330 0M420 800 610 0M760 800 895 0M1010 800 1170 0" stroke="#CCD7C0" stroke-width="32"/>
+  <path d="M0 118 1200 0M0 345 1200 202M0 596 1200 435M110 800 330 0M420 800 610 0M760 800 895 0M1010 800 1170 0" stroke="#F9FAF4" stroke-width="13"/>
+  <path d="M-40 410C200 350 260 245 460 284s282 182 444 118 231-119 343-74" stroke="#91B8AE" stroke-width="42"/>
+  <path d="M-40 410C200 350 260 245 460 284s282 182 444 118 231-119 343-74" stroke="#BDD6C9" stroke-width="27"/>
+  <g fill="#BBCB9F"><path d="M65 77h145v82H65z"/><path d="M854 91h191v70H854z"/><path d="M510 605h175v100H510z"/><path d="M968 538h138v90H968z"/></g>
+  <g fill="#D4DDC4"><path d="M244 498h170v95H244z"/><path d="M730 251h95v115h-95z"/><path d="M75 651h186v83H75z"/></g>
+  <g fill="#748B69" font-family="Arial,sans-serif" font-size="18"><text x="68" y="210">طريق زراعي</text><text x="874" y="195">منطقة زراعية</text><text x="500" y="746">قناة ري · توضيح تخطيطي</text></g>
+</svg>
